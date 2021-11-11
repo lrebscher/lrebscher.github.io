@@ -59,7 +59,7 @@
 **Duration:** 05.2018 - 04.2020
 
 
-*I worked on improving workflows in the publishing domain by using **NLP** and unsupervised **Machine Learning** methods. Implemented use cases include: topic discovery and easonal topic detection, content recommendation, in-site link optimization.*
+*I worked on improving workflows in the publishing domain by using **NLP** and unsupervised **Machine Learning** methods. Implemented use cases include: topic discovery and seasonal topic detection, content recommendation, in-site link optimization.*
 
 
 ### News Article Recommender System
