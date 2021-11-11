@@ -1,0 +1,14 @@
+<a  class="icon" 
+    href="{{ .Get "src" | safeURL }}" 
+    alt="" 
+    target="_blank"
+>
+    <i 
+        class="{{ .Get "class" }}" 
+        style="font-size:24px;"
+        aria-hidden="true">
+    </i> 
+    <i class="text" >
+        {{ .Get "text" }}
+    </i>
+</a>
