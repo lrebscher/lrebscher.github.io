@@ -6,7 +6,7 @@
 {{< icon class="fa fa-github" src="https://github.com/MetaCell/geppetto-meta" text="Open Source">}}
 
 **Role:** Product Owner and Technical Lead \
-**Technology:** `Python` `React` `JavaScript` `material-ui` `Three.js` `Kubernetes` \
+**Technology:** `Python` `React` `Redux` `JavaScript` `material-ui` `Three.js` `Kubernetes`\
 **Duration:** 03.2021 - 08.2021
 
 *Mainly product development, project management and sprint organization. Worked on refactoring monolitihic legacy codebase into component-based UI framework.*
@@ -28,7 +28,7 @@
 {{< icon class="fa fa-github" src="https://github.com/MetaCell/NetPyNE-UI" text="Open Source" >}}
 
 **Role:** Full-stack Developer and Project Manager \
-**Technology:** `Python` `Jupyter Hub` `Jupyter widget` `React` `JavaScript` `material-ui` `Kubernetes` \
+**Technology:** `Python` `Jupyter Hub` `Jupyter widget` `React` `Redux` `JavaScript` `material-ui` `Kubernetes` \
 **Duration:** 11.2020 - 08.2021
 
 *Designed and implemented a feature to enable parallel simulations, consisting of UI views to configure simulations and backend logic to manage and execute simulations in multiple processes. Communication with client and sprint organization.*
@@ -53,9 +53,9 @@
 
 {{< icon class="fa fa-file-text-o" src="https://purplepublish.com/de/purple-ds-acm-content-intelligence/" text="Product Page" >}}
 
-**Role:** Project Manager and Lead Developer \
-**Technology:** `Python` `Flask` `Gensim` `Pandas` `sklearn` `SciPy` `nltk` `Jenkins` `Kubernetes` `Elasticsearch` `MongoDB` `Airflow` `AWS S3` `React` `Typescript` \
-**Concepts:** text preprocessing, feature selection, entity recognition, scoring & weighting models, phrase detection, recommendation models (content-based, collaborative, hybrid) \
+**Role:** Lead Developer / Project Manager \
+**Technology:** `Python` `Flask` `spaCy` `Gensim` `Pandas` `sklearn` `nltk` `Elasticsearch` `Jenkins` `Kubernetes` `MongoDB` `Airflow` `AWS S3` `React` `Typescript` \
+**Concepts:** text preprocessing, feature extraction, entity recognition, scoring & weighting models, phrase detection, recommendation models (content-based, collaborative, hybrid) \
 **Duration:** 05.2018 - 04.2020
 
 

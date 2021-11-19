@@ -9,9 +9,9 @@ Based in **Berlin, Germany**.
 ## Main Skills
 
 * Design and implementation of data-intensive, scalable software systems
+* Project management and technical lead
 * Machine Learning, Natural Language Processing, Recommender Systems
 * Backend - Java/Kotlin Spring Boot, Python Flask
 * DevOps - CI, Kubernetes, Docker, AWS
-* Frontend - JavaScript, TypeScript, React, material-ui
-* Project management and technical lead
+* Frontend - JavaScript, TypeScript, React, Redux, material-ui
 
