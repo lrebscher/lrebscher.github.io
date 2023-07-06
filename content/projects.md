@@ -1,5 +1,14 @@
 # Selected Projects
 
+### Prediction of product characteristics in the OTTO eCommerce shop
+
+**Role:** Machine Learning Engineer \
+**Technology:** `Python` `pyTorch` `Keras` `Java` `Spring Boot` `JPA` `Kafka` `KStream` `AWS` `PostgreSQL` \
+**Duration:** 01.2022 - 06.2023
+
+*I build and evaluated machine learning models to predict product characteristics. One of my notable achievements includes developing a multi-output neural network that was successfully deployed in production, enriching millions of products.
+In addition, I extended and created several streaming services (stateful and stateless) and contributed to their functionality and scalability, allowing millions of products and predictions to be processed efficiently.*
+
 
 ### Geppetto-Meta
 
