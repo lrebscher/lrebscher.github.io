@@ -3,13 +3,16 @@ title = "Lucas Rebscher"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
-paginate = 20
-pygmentsStyle = "bw"
-pygmentsCodeFences = true
-pygmentsCodeFencesGuessSyntax = true
-enableEmoji = true
-# Enable Disqus comments
-# disqusShortname = "yourdiscussshortname"
+
+[pagination]
+pagerSize = 20
+
+# [services]
+# [services.disqus]
+# shortname = "yourdiscussshortname"
+
+[markup.highlight]
+style = "github-dark"
 
 [params]
 author = "Lucas Rebscher"
@@ -86,7 +89,8 @@ stylesrc = [
   "'self'",
   "'unsafe-inline'",
   "https://fonts.googleapis.com/",
-  "https://cdn.jsdelivr.net/"
+  "https://cdn.jsdelivr.net/",
+  "https://www.freelancermap.de/"
 ]
 scriptsrc = ["'self'", "'unsafe-inline'", "https://www.google-analytics.com"]
 prefetchsrc = ["'self'"]
@@ -101,7 +105,7 @@ author = "authors"
 
 [[params.social]]
 name = "Github"
-icon = "fa fa-github"
+icon = "fa-brands fa-github fa-2x"
 weight = 1
 url = "https://github.com/lrebscher/"
 
@@ -113,7 +117,7 @@ url = "https://github.com/lrebscher/"
 
 [[params.social]]
 name = "LinkedIn"
-icon = "fa fa-linkedin"
+icon = "fa-brands fa-linkedin fa-2x"
 weight = 4
 url = "https://www.linkedin.com/in/lucas-rebscher-669aba106/"
 

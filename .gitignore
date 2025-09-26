@@ -1,3 +1,28 @@
-.idea
+# Hugo build output
+/public/
+/resources/_gen/
+/hugo_stats.json
+.hugo_build.lock
 
-public/
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node.js dependencies (if using Hugo themes with npm packages)
+/node_modules/
+
+# Go module files (if using Hugo modules)
+/vendor/
+
+# IDE/editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Backup files
+*~
+*.bak
+
+# Logs
+*.log
