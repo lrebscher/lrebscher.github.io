@@ -1,5 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Rebscher</title><link>https://lrebscher.github.io/</link><description>Recent content on Lucas Rebscher</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://lrebscher.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://lrebscher.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lrebscher.github.io/about/</guid><description>About me Freelance software engineer with 9 years of professional experience and 10+ completed projects.
-My expertise is in the design and development of data-intensive applications that use Machine Learning or NLP to solve problems in various domains.
-Based in Berlin (Germany), working remotely for the past 3 years.
-Main Skills Design and implementation of data-intensive, scalable software systems Project management and technical lead Machine Learning - Classification, NLP, Recommender Systems, Keras, pyTorch Backend Java, Kotlin, Spring Boot, Python, Flask, FastAPI, Kafka, MongoDB, PostgreSQL DevOps - CI, Kubernetes, Docker, Cloud services (e.</description></item><item><title/><link>https://lrebscher.github.io/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lrebscher.github.io/projects/</guid><description>Selected Projects Prediction of product characteristics in the OTTO eCommerce shop Role: Machine Learning Engineer Technology: Python pyTorch Keras Java Spring Boot JPA Kafka KStream AWS PostgreSQL Duration: 01.2022 - 06.2023
-I build and evaluated machine learning models to predict product characteristics. One of my notable achievements includes developing a multi-output neural network that was successfully deployed in production, enriching millions of products. In addition, I extended and created several streaming services (stateful and stateless) and contributed to their functionality and scalability, allowing millions of products and predictions to be processed efficiently.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Rebscher</title><link>https://lrebscher.github.io/</link><description>Recent content on Lucas Rebscher</description><generator>Hugo</generator><language>en</language><atom:link href="https://lrebscher.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://lrebscher.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lrebscher.github.io/about/</guid><description>&lt;h1 id="about-me"&gt;
+ About me
+ &lt;a class="heading-link" href="#about-me"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;Freelance software engineer with over 10 years of professional experience.&lt;/p&gt;
+&lt;p&gt;My expertise is in the design and development of data-intensive applications that use Machine Learning or NLP to solve problems in various domains.&lt;/p&gt;
+&lt;p&gt;Based in Fürth, Germany, and working remotely for the past few years.&lt;/p&gt;
+&lt;h2 id="main-skills"&gt;
+ Main Skills
+ &lt;a class="heading-link" href="#main-skills"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Design and implementation of data-intensive, scalable software systems&lt;/li&gt;
+&lt;li&gt;Project management and technical lead&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Machine Learning&lt;/strong&gt; - Classification, NLP, Recommender Systems, Keras, pyTorch&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Backend&lt;/strong&gt; Java, Kotlin, Spring Boot, Python, Flask, FastAPI, Kafka, MongoDB, PostgreSQL&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DevOps&lt;/strong&gt; - CI, Kubernetes, Docker, Cloud services (e.g. AWS)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Frontend&lt;/strong&gt; - JavaScript, TypeScript, React, Redux, material-ui&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title/><link>https://lrebscher.github.io/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lrebscher.github.io/projects/</guid><description>&lt;h1 id="selected-projects"&gt;
+ Selected Projects
+ &lt;a class="heading-link" href="#selected-projects"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h1&gt;
+&lt;h3 id="prediction-of-product-characteristics-in-the-otto-ecommerce-shop"&gt;
+ Prediction of product characteristics in the OTTO eCommerce shop
+ &lt;a class="heading-link" href="#prediction-of-product-characteristics-in-the-otto-ecommerce-shop"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt; Machine Learning Engineer &lt;br&gt;
+&lt;strong&gt;Technology:&lt;/strong&gt; &lt;code&gt;Python&lt;/code&gt; &lt;code&gt;pyTorch&lt;/code&gt; &lt;code&gt;Keras&lt;/code&gt; &lt;code&gt;Java&lt;/code&gt; &lt;code&gt;Spring Boot&lt;/code&gt; &lt;code&gt;JPA&lt;/code&gt; &lt;code&gt;Kafka&lt;/code&gt; &lt;code&gt;KStream&lt;/code&gt; &lt;code&gt;AWS&lt;/code&gt; &lt;code&gt;PostgreSQL&lt;/code&gt; &lt;br&gt;
+&lt;strong&gt;Duration:&lt;/strong&gt; 01.2022 - 06.2023&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;I build and evaluated machine learning models to predict product characteristics. One of my notable achievements includes developing a multi-output neural network that was successfully deployed in production, enriching millions of products.
+In addition, I extended and created several streaming services (stateful and stateless) and contributed to their functionality and scalability, allowing millions of products and predictions to be processed efficiently.&lt;/em&gt;&lt;/p&gt;</description></item></channel></rss>
